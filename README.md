@@ -2,7 +2,9 @@
 
 Dieses Repository enthält den Code, CAD-Daten und begleitende Materialien zur Bachelorarbeit:
 
-**Titel der Arbeit:** Entwicklung eines mechanischen Quickrelease-Systems für Hydrofoil-Boards  
+**Titel der Arbeit:** Sicherheitsmechanismus für Foilboards:
+Design und Entwicklung eines
+Quickrelease-Systems  
 **Autor:** Fynn Buchsteiner  
 **Studiengang:** Medical, Health & Sports Technology (MCI Innsbruck)  
 **Abgabe:** Juli 2025
